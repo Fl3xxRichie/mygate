@@ -13,7 +13,7 @@ ${chalk.cyan('╚═╝')}     ${chalk.magenta('╚══════╝')} ${ch
 ${chalk.cyan('██████╗')} ${chalk.magenta('██╗')}  ${chalk.yellow('██████╗')} ${chalk.green('██╗')}  ${chalk.blue('██╗')} ${chalk.red('██╗')} ${chalk.cyan('███████╗')}
 ${chalk.cyan('██╔══██╗')}${chalk.magenta('██║')} ${chalk.yellow('██╔════╝')} ${chalk.green('██║')}  ${chalk.blue('██║')} ${chalk.red('██║')} ${chalk.cyan('██╔════╝')}
 ${chalk.cyan('██████╔╝')}${chalk.magenta('██║')} ${chalk.yellow('██║')}      ${chalk.green('███████║')} ${chalk.blue('██║')} ${chalk.red('██║')} ${chalk.cyan('█████╗')}  
-${chalk.cyan('██╔══██╗')}${chalk.magenta('██║')} ${chalk.yellow('██║')}      ${chalk.green('██╔══██║')} ${chalk.blue('██║')} ${chalk.red('██║')} ${chalk.cyan('██╔══╝')}  
+${chalk.cyan('██╔══██╗')}${chalk.magenta('██║')} ${chalk.yellow('██║')}      ${chalk.green('██╔══██║')} ${chalk.blue('██║')} ${chalk.red('██║')} ${chalk.cyan('══╝')}  
 ${chalk.cyan('██║')}  ${chalk.magenta('██║')}${chalk.yellow('██║')} ${chalk.green('╚██████╗')} ${chalk.blue('██║')}  ${chalk.red('██║')} ${chalk.cyan('██║')} ${chalk.magenta('███████╗')}
 ${chalk.cyan('╚═╝')}  ${chalk.magenta('╚═╝')}${chalk.yellow('╚═╝')}  ${chalk.green('╚═════╝')} ${chalk.blue('╚═╝')}  ${chalk.red('╚═╝')} ${chalk.cyan('╚═╝')} ${chalk.magenta('╚══════╝')}
 
