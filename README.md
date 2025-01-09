@@ -18,7 +18,10 @@
 - 📊 **Real-time Status Monitoring**
 - 🎯 **Auto Quest Completion**
 - ⚡ **Optimized Performance**
-![alt text](image.png)
+
+![alt text](image-2.png)
+
+
 ## 🔧 Prerequisites
 
 - Node.js (v16 or higher)
